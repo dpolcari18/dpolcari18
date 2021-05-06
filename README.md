@@ -54,6 +54,10 @@
     <a href='https://davidpolcari.medium.com/' target='_blank' style='color: inherit; text-decoration: none;'><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
 
+<h2 align='center'>LATEST BLOG POSTS</h2>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h2 align='center'>STATS</h2>
 
 <p align='center'>
