@@ -30,8 +30,11 @@ SKILLS
 <i class="devicon-html5-plain" style="font-size: 5rem;"></i>
 <i class="devicon-css3-plain" style="font-size: 5rem;"></i>
 <i class="devicon-bootstrap-plain" style="font-size: 5rem;"></i>
-<i class="devicon-github-original" style="font-size: 5rem;"></i>
 
 LEARNING
 
 <i class="devicon-typescript-plain" style="font-size: 5rem;"></i>
+
+CONNECT
+
+<a href='https://www.linkedin.com/in/david-polcari/' target='_blank' style='color: inherit; text-decoration: none;'><i class="devicon-linkedin-plain" style="font-size: 5rem;"></i></a>
