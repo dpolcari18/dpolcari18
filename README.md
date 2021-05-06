@@ -51,7 +51,7 @@
 
 <p align='center'>
     <a href='https://www.linkedin.com/in/david-polcari/' target='_blank' style='color: inherit; text-decoration: none;'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href='https://davidpolcari.medium.com/' target='_blank' style='color: inherit; text-decoration: none;'><img src="	https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+    <a href='https://davidpolcari.medium.com/' target='_blank' style='color: inherit; text-decoration: none;'><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
 
 <h2 align='center'>STATS</h2>
