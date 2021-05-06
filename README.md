@@ -55,6 +55,7 @@
 </p>
 
 <h2 align='center'>LATEST BLOG POSTS</h2>
+
 <!-- BLOG-POST-LIST:START -->
 - [Implementing Action Mailer — Ruby on Rails](https://medium.com/nerd-for-tech/implementing-action-mailer-ruby-on-rails-1766f59c6f?source=rss-8358e38d6d37------2)
 - [Destructuring with JavaScript ES6](https://medium.com/nerd-for-tech/destructuring-with-javascript-es6-a194d458da4a?source=rss-8358e38d6d37------2)
