@@ -6,9 +6,7 @@
     My name is David Polcari and I am a full-stack software engineer in Austin, TX with a background in petroleum engineering. I'm passionate about using my technical skills to help improve the world as we know it. I never want to stop learning or challenging myself and I bring a global perspective to everything I do. Self-driven, entrepreneur, whose hobbies include mountain biking and growing ridiculously hot peppers.
 </p>
 
-<h2 align='center'>SKILLS<h2>
-
-<h4 align='center'>LANGUAGES</h4>
+<h3 align='center'>LANGUAGES</h3>
 <p align='center'>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
@@ -16,7 +14,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
-<h4 align='center'>FRAMEWORKS</h4>
+<h3 align='center'>FRAMEWORKS</h3>
 
 <p align='center'>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -24,14 +22,14 @@
     <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
 </p>
 
-<h4 align='center'>DATABASES</h4>
+<h3 align='center'>DATABASES</h3>
 
 <p align='center'>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 </p>
 
-<h4 align='center'>OTHER</h4>
+<h3 align='center'>OTHER</h3>
 
 <p align='center'>
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
@@ -41,7 +39,7 @@
 </p>
 
 
-<h4 align='center'>LEARNING</h4>
+<h3 align='center'>LEARNING</h3>
 <p align='center'>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
