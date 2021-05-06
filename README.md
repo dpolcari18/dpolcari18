@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm David! 👋
 
 <!--
 **dpolcari18/dpolcari18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
-INTRO
+#### INTRO
 
 My name is David Polcari and I am a full-stack software engineer in Austin, TX with a background in petroleum engineering. I'm passionate about using my technical skills to help improve the world as we know it. I never want to stop learning or challenging myself and I bring a global perspective to everything I do. Self-driven, entrepreneur, whose hobbies include mountain biking and growing ridiculously hot peppers.
 
-SKILLS
+#### SKILLS
 
 <i class="devicon-ruby-plain" style="font-size: 5rem;"></i>
 <i class="devicon-rails-plain" style="font-size: 5rem;"></i>
@@ -31,10 +31,14 @@ SKILLS
 <i class="devicon-css3-plain" style="font-size: 5rem;"></i>
 <i class="devicon-bootstrap-plain" style="font-size: 5rem;"></i>
 
-LEARNING
+#### LEARNING
 
 <i class="devicon-typescript-plain" style="font-size: 5rem;"></i>
 
-CONNECT
+#### CONNECT
 
 <a href='https://www.linkedin.com/in/david-polcari/' target='_blank' style='color: inherit; text-decoration: none;'><i class="devicon-linkedin-plain" style="font-size: 5rem;"></i></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpolcari18)](https://github.com/dpolcari18/github-readme-stats)
+
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpolcari18)](https://github.com/dpolcari18/github-readme-stats)
