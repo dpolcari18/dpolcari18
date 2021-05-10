@@ -1,4 +1,4 @@
-<h1 align='center'>Hi there! I'm David! 👋</h1>
+<h1 align='center'>Hey y'all, I'm David! 👋</h1>
 
 <h2 align='center'>INTRO</h2>
 
