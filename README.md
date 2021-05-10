@@ -8,48 +8,48 @@
 
 <h3 align='center'>LANGUAGES</h3>
 <p align='center'>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" onclick="return false;">
-    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby Badge">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
 </p>
 
 <h3 align='center'>FRAMEWORKS</h3>
 
 <p align='center'>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-    <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge">
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge">
+    <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"  alt="Ruby on Rails Badge">
 </p>
 
 <h3 align='center'>DATABASES</h3>
 
 <p align='center'>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"  alt="PostgreSQL Badge">
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge">
 </p>
 
 <h3 align='center'>OTHER</h3>
 
 <p align='center'>
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM Badge">
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Badge">
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku Badge">
+    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="PowerBI Badge">
 </p>
 
 
 <h3 align='center'>LEARNING</h3>
 <p align='center'>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge">
 </p>
 
 
 <h2 align='center'>CONNECT</h2>
 
 <p align='center'>
-    <a href='https://www.linkedin.com/in/david-polcari/' target='_blank' style='color: inherit; text-decoration: none;'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href='https://davidpolcari.medium.com/' target='_blank' style='color: inherit; text-decoration: none;'><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+    <a href='https://www.linkedin.com/in/david-polcari/' target='_blank' style='color: inherit; text-decoration: none;'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+    <a href='https://davidpolcari.medium.com/' target='_blank' style='color: inherit; text-decoration: none;'><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"></a>
 </p>
 
 <h2 align='center'>LATEST BLOG POSTS</h2>
@@ -65,8 +65,8 @@
 <h2 align='center'>STATS</h2>
 
 <p align='center'>
-    <img src="https://github-readme-stats.vercel.app/api?username=dpolcari18&count_private=true&show_icons=true" width="500">
+    <img src="https://github-readme-stats.vercel.app/api?username=dpolcari18&count_private=true&show_icons=true" width="500" alt="GitHub Stats Dashboard">
 </p>
 <p align='center'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpolcari18" width="350">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpolcari18" width="350" alt="Most Used Languages Dashboard">
 </p>
