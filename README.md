@@ -55,11 +55,11 @@
 <h2 align='center'>LATEST BLOG POSTS</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Discovering JavaScript’s Set Object](https://medium.com/nerd-for-tech/discovering-javascripts-set-object-ed34cdbc677?source=rss-8358e38d6d37------2)
 - [Removing GitHub Repos with JavaScript](https://medium.com/nerd-for-tech/removing-repos-with-javascript-baba54fabeb0?source=rss-8358e38d6d37------2)
 - [Implementing Action Mailer — Ruby on Rails](https://medium.com/nerd-for-tech/implementing-action-mailer-ruby-on-rails-1766f59c6f?source=rss-8358e38d6d37------2)
 - [Destructuring with JavaScript ES6](https://medium.com/nerd-for-tech/destructuring-with-javascript-es6-a194d458da4a?source=rss-8358e38d6d37------2)
 - [Breaking Down JavaScript Functions](https://medium.com/nerd-for-tech/breaking-down-javascript-functions-5be9b9fba96d?source=rss-8358e38d6d37------2)
-- [Why Hotkeys are so Hot](https://davidpolcari.medium.com/why-hotkeys-are-so-hot-f11b85f73c67?source=rss-8358e38d6d37------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align='center'>STATS</h2>
