@@ -55,11 +55,11 @@
 <h2 align='center'>LATEST BLOG POSTS</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Using JavaScripts bind(), call() and apply()](https://medium.com/nerd-for-tech/using-javascripts-bind-call-and-apply-868c4347cea9?source=rss-8358e38d6d37------2)
 - [JavaScript: this and Arrow Functions](https://medium.com/nerd-for-tech/javascript-this-and-arrow-functions-215a90973a05?source=rss-8358e38d6d37------2)
 - [What is this? JavaScripts this Keyword](https://medium.com/nerd-for-tech/what-is-this-javascripts-this-keyword-23cc6fab741a?source=rss-8358e38d6d37------2)
 - [Discovering JavaScript’s Set Object](https://medium.com/nerd-for-tech/discovering-javascripts-set-object-ed34cdbc677?source=rss-8358e38d6d37------2)
 - [Removing GitHub Repos with JavaScript](https://medium.com/nerd-for-tech/removing-repos-with-javascript-baba54fabeb0?source=rss-8358e38d6d37------2)
-- [Implementing Action Mailer — Ruby on Rails](https://medium.com/nerd-for-tech/implementing-action-mailer-ruby-on-rails-1766f59c6f?source=rss-8358e38d6d37------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align='center'>STATS</h2>
