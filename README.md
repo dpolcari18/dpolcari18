@@ -1,6 +1,6 @@
 <h1 align='center'>Hey y'all, I'm David! 👋</h1>
 
-<img src='./images/david-headshot.jpg' alt='Professional Headshot of David Polcari' style='border-radius: 20px;'>
+<img src='./images/david-headshot.jpg' alt='Professional Headshot of David Polcari' style='border-radius: 20px; height: 50%'>
 
 <h2 align='center'>INTRO</h2>
 
