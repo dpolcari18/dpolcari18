@@ -6,6 +6,11 @@
     My name is David Polcari and I am a full-stack software engineer in Austin, TX with a background in petroleum engineering. I'm passionate about using my technical skills to help improve the world as we know it. I never want to stop learning or challenging myself and I bring a global perspective to everything I do. Self-driven, entrepreneur, whose hobbies include mountain biking and growing ridiculously hot peppers.
 </p>
 
+<h3 align='center'>PORTFOLIO<h3>
+<p align='center'>
+    <a href='https://www.davidthedev.tech'>davidthedev.tech</a>
+</p>
+
 <h3 align='center'>LANGUAGES</h3>
 <p align='center'>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
