@@ -62,7 +62,7 @@
 <h2 align='center'>LATEST BLOG POSTS</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [OG Meta Tags](https://medium.com/nerd-for-tech/og-meta-tags-9cc121f5fec4?source=rss-8358e38d6d37------2)
+- [HTML Headers: OG Meta Tags](https://medium.com/nerd-for-tech/og-meta-tags-9cc121f5fec4?source=rss-8358e38d6d37------2)
 - [Send Emails Direct from JavaScript](https://medium.com/nerd-for-tech/send-emails-direct-from-javascript-b58966154681?source=rss-8358e38d6d37------2)
 - [Custom Error Handling in JavaScript](https://medium.com/nerd-for-tech/custom-error-handling-in-javascript-a3ce12aa38ff?source=rss-8358e38d6d37------2)
 - [Using JavaScripts bind, call and apply](https://medium.com/nerd-for-tech/using-javascripts-bind-call-and-apply-868c4347cea9?source=rss-8358e38d6d37------2)
