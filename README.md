@@ -63,11 +63,11 @@
 <h2 align='center'>LATEST BLOG POSTS</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Jest](https://javascript.plainenglish.io/getting-started-with-jest-40d18796b8c7?source=rss-8358e38d6d37------2)
 - [Refactor React Imports](https://javascript.plainenglish.io/refactoring-react-imports-6901a9ee7b11?source=rss-8358e38d6d37------2)
 - [RSpec: Using Subject to Test Models](https://medium.com/nerd-for-tech/rspec-using-subject-to-test-models-92be4a093d7e?source=rss-8358e38d6d37------2)
 - [Link Previews: OG Meta Tags](https://medium.com/nerd-for-tech/og-meta-tags-9cc121f5fec4?source=rss-8358e38d6d37------2)
 - [Send Emails Direct from JavaScript](https://medium.com/nerd-for-tech/send-emails-direct-from-javascript-b58966154681?source=rss-8358e38d6d37------2)
-- [Custom Error Handling in JavaScript](https://medium.com/nerd-for-tech/custom-error-handling-in-javascript-a3ce12aa38ff?source=rss-8358e38d6d37------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align='center'>STATS</h2>
