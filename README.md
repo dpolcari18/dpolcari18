@@ -65,11 +65,11 @@
 <h2 align='center'>LATEST BLOG POSTS</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [What are Ruby Lambda functions?](https://medium.com/nerd-for-tech/what-are-ruby-lambda-functions-6cb6bfe9b20c?source=rss-8358e38d6d37------2)
 - [cattr_accessor vs class_attribute in Rails](https://medium.com/nerd-for-tech/cattr-accessor-vs-class-attribute-in-rails-7aa8a7a0c258?source=rss-8358e38d6d37------2)
 - [Should You Load Scripts with Async or Defer?](https://javascript.plainenglish.io/loading-scripts-with-async-and-defer-dfc9dc46077b?source=rss-8358e38d6d37------2)
 - [Getting Started with Jest](https://javascript.plainenglish.io/getting-started-with-jest-40d18796b8c7?source=rss-8358e38d6d37------2)
 - [Refactor React Imports](https://javascript.plainenglish.io/refactoring-react-imports-6901a9ee7b11?source=rss-8358e38d6d37------2)
-- [RSpec: Using Subject to Test Models](https://medium.com/nerd-for-tech/rspec-using-subject-to-test-models-92be4a093d7e?source=rss-8358e38d6d37------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align='center'>STATS</h2>
