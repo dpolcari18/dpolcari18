@@ -5,7 +5,7 @@
 <h2 align='center'>INTRO</h2>
 
 <p align='center'>
-    My name is David Polcari and I am a full-stack software engineer in Austin, TX with a background in petroleum engineering. I'm passionate about using my technical skills to help improve the world as we know it. I never want to stop learning or challenging myself and I bring a global perspective to everything I do. Self-driven, entrepreneur, whose hobbies include mountain biking and growing ridiculously hot peppers.
+    My name is David Polcari and I am a fullstack software engineer in Austin, TX with a background in healthcare and petroleum engineering. I'm passionate about using my technical skills to help improve the world as we know it. I strive to never stop learning or challenging myself and I bring a global perspective to everything I do. Self-driven, entrepreneur, whose hobbies include mountain biking and growing ridiculously hot peppers.
 </p>
 
 <h3 align='center'>PORTFOLIO<h3>
